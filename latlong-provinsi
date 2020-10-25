@@ -1,0 +1,202 @@
+{
+	"data" : [
+		{
+			"fid": 11,
+			"nama_prov": "DKI Jakarta",
+			"lat": "-6.211544",
+			"long": "106.845172"
+		},
+		{
+			"fid": 15,
+			"nama_prov": "Jawa Timur",
+			"lat": "-7.5360639",
+			"long": "112.2384017"
+		},
+		{
+			"fid": 12,
+			"nama_prov": "Jawa Barat",
+			"lat": "-7.5360639",
+			"long": "112.2384017"
+		},
+		{
+			"fid": 13,
+			"nama_prov": "Jawa Tengah",
+			"lat": "",
+			"long": ""
+		},
+		{
+			"fid": 27,
+			"nama_prov": "Sulawesi Selatan",
+			"lat": "",
+			"long": ""
+		},
+		{
+			"fid": 23,
+			"nama_prov": "Kalimantan Timur",
+			"lat": "",
+			"long": ""
+		},
+		{
+			"fid": 2,
+			"nama_prov": "Sumatera Utara",
+			"lat": "",
+			"long": ""
+		},
+		{
+			"fid": 3,
+			"nama_prov": "Sumatera Barat",
+			"lat": "",
+			"long": ""
+		},
+		{
+			"fid": 22,
+			"nama_prov": "Kalimantan Selatan",
+			"lat": "",
+			"long": ""
+		},
+		{
+			"fid": 17,
+			"nama_prov": "Bali",
+			"lat": "",
+			"long": ""
+		},
+		{
+			"fid": 33,
+			"nama_prov": "Papua",
+			"lat": "",
+			"long": ""
+		},
+		{
+			"fid": 16,
+			"nama_prov": "Banten",
+			"lat": "",
+			"long": ""
+		},
+		{
+			"fid": 6,
+			"nama_prov": "Sumatera Selatan",
+			"lat": "",
+			"long": ""
+		},
+		{
+			"fid": 1,
+			"nama_prov": "Aceh",
+			"lat": "",
+			"long": ""
+		},
+		{
+			"fid": 25,
+			"nama_prov": "Sulawesi Utara",
+			"lat": "",
+			"long": ""
+		},
+		{
+			"fid": 28,
+			"nama_prov": "Sulawesi Tenggara",
+			"lat": "",
+			"long": ""
+		},
+		{
+			"fid": 21,
+			"nama_prov": "Kalimantan Tengah",
+			"lat": "",
+			"long": ""
+		},
+		{
+			"fid": 34,
+			"nama_prov": "Papua Barat",
+			"lat": "",
+			"long": ""
+		},
+		{
+			"fid": 18,
+			"nama_prov": "Nusa Tenggara Barat",
+			"lat": "",
+			"long": ""
+		},
+		{
+			"fid": 31,
+			"nama_prov": "Maluku",
+			"lat": "",
+			"long": ""
+		},
+		{
+			"fid": 14,
+			"nama_prov": "Daerah Istimewa Yogyakarta",
+			"lat": "",
+			"long": ""
+		},
+		{
+			"fid": 10,
+			"nama_prov": "Kepulauan Riau",
+			"lat": "",
+			"long": ""
+		},
+		{
+			"fid": 29,
+			"nama_prov": "Gorontalo",
+			"lat": "",
+			"long": ""
+		},
+		{
+			"fid": 32,
+			"nama_prov": "Maluku Utara",
+			"lat": "",
+			"long": ""
+		},
+		{
+			"fid": 20,
+			"nama_prov": "Kalimantan Barat",
+			"lat": "",
+			"long": ""
+		},
+		{
+			"fid": 9,
+			"nama_prov": "Lampung",
+			"lat": "",
+			"long": ""
+		},
+		{
+			"fid": 5,
+			"nama_prov": "Jambi",
+			"lat": "",
+			"long": ""
+		},
+		{
+			"fid": 30,
+			"nama_prov": "Sulawesi Barat",
+			"lat": "",
+			"long": ""
+		},
+		{
+			"fid": 7,
+			"nama_prov": "Bengkulu",
+			"lat": "",
+			"long": ""
+		},
+		{
+			"fid": 26,
+			"nama_prov": "Sulawesi Tengah",
+			"lat": "",
+			"long": ""
+		},
+		{
+			"fid": 24,
+			"nama_prov": "Kalimantan Utara",
+			"lat": "",
+			"long": ""
+		},
+		{
+			"fid": 19,
+			"nama_prov": "Nusa Tenggara Timur",
+			"lat": "",
+			"long": ""
+		},
+		{
+			"fid": 8,
+			"nama_prov": "Kepulauan Bangka Belitung",
+			"lat": "",
+			"long": ""
+		}
+	]
+}
